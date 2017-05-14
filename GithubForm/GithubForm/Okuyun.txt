@@ -1,0 +1,11 @@
+﻿Projemiz 2. Grup olarak yayınlanmıştır.
+İnönü Üniversitesi
+Mühendislik Fakültesi
+Bilgisayar Mühendisliği
+Projenin Üyeleri:
+Proje Yönetimi ve Genel Tasarımı : Ömer Açık
+Veri Ekleme: Çağrı Yılmaz
+Upload Test Kontrolü: Abdullah Yangıl
+Tasarım Yardımcısı: Yusuf Dinç
+Bağlantı Kontrolü: Eda Güde
+Sunum Kontrolü: Seda Güde
